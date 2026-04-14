@@ -1,0 +1,16 @@
+Exercício de obtenção exata de quatro litros:
+
+Recipiente A = 3 litros
+Recipiente B = 5 litros
+
+Objetivo = Obter exatamente 4 litros
+
+Encha o recipiente de cinco litros por completo com água da fonte.
+Despeje a agua do recipiente de cinco litros no de três litros até encher por completo.
+Irá sobrar exatamente dois litros no recipiente de cinco litros.
+Despeje toda a agua do recipiente de três litros na fonte.
+Despeje os dois litros, que estão no recipiente de cinco litros, no recipiente de três litros.
+Encha novamente o recipiente de cinco litros por completo.
+Despeja a água do recipiente de cinco litros no recipiente de três litros até enche-lo.
+
+Assim seu José terá exatamente quatro litros no recipiente de cinco litros e poderá colocá-lo em cima da balança.
